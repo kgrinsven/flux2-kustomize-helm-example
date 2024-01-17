@@ -14,3 +14,7 @@ spec:
           paths:
             - path: /
               pathType: ImplementationSpecific
+    ui:
+      message: "Hello Production"
+      color: "#facade"
+      logo: ""

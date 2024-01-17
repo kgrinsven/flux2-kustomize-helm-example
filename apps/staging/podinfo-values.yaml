@@ -16,3 +16,7 @@ spec:
           paths:
             - path: /
               pathType: ImplementationSpecific
+    ui:
+      message: "Hello Staging"
+      color: "#decade"
+      logo: ""
